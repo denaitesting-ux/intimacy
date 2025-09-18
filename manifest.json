@@ -1,0 +1,16 @@
+{
+  "name": "Календарь близости",
+  "short_name": "Близость",
+  "description": "Персональный календарь для отслеживания и анализа ваших интимных моментов, помогающий понять ваши привычки и отмечать лучшие дни.",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#0059A8"
+}
